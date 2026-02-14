@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "ANISELLLLLLL(click play music top right)",
+    valentineName: "ANISELLLLLLL(click play music top right and DONT look at the bottom right corner)",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "JAKOB CRUZ IS THE LUCKIEST PERSON EVERRERER! 🎉💝💖💝💓",
         message: "I MISS YOUU AMOREEE AND I LOVE YOU SOSO MUCH",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🎁💖🤗💝💋❤️💕🦶"  // These will bounce around
     },
 
     // Color scheme for the website
